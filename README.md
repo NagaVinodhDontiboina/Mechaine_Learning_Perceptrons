@@ -27,7 +27,7 @@ Training behaviour shown through loss and accuracy curves
 - Machine_Learning_Assignment.ipynb  
   Jupyter notebook with all TensorFlow/Keras code used to train the models and generate the plots.
 
-- machine_learning_mlp.pdf  
+- Understanding How Depth and Width Affect Multi-Layer Perceptron (MLP) Performance.pdf  
   PDF version of the tutorial
 
 - plots/  
